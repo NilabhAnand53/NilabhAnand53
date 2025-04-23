@@ -12,10 +12,10 @@
 
 ## 👨‍💻 About Me
 
-🎓 Pursuing M.Tech at Lovely Professional University  
+🎓 Pursuing B.Tech at Lovely Professional University  
 🌱 Passionate about:
-- 🤖 Artificial Intelligence & Machine Learning  
-- 📊 Data Science, Analytics & Visualizations  
+- 🤖 Artificial Intelligence  
+- 📊 Cyber Security 
 - 🌐 Web Development & Automation Tools  
 
 🔥 Currently building exciting projects & sharpening my skills  
@@ -23,7 +23,7 @@
 
 💬 Ask me about:
 - 📌 AI, ML, Deep Learning
-- 🛠 Python, Web Dev, GitHub tricks
+- 🛠 Python, Web Dev, GitHub trick
 - 📚 Productivity hacks & smart learning
 
 ---
@@ -59,7 +59,7 @@ I’m currently listening to TRAVIS SCOTT! 🎶
 ## 📫 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/harshvindersingh15122000/" target="_blank">
+  <a href="https://www.linkedin.com/in/nilabh-anand-468a4529a/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:nilabhanand5@gmail.com">
