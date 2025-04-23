@@ -3,7 +3,7 @@
 <h3 align="center">🚀 Tech Explorer | 💡 Lifelong Learner | 🧠 Cyber Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&lines=⚡+Engineer+in+the+Making;🌐+Full-stack+Developer;🤖+AI+%2B+ML+Explorer;🎯+Focused+on+Growth+%26+Impact" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&lines=⚡+Engineer+in+the+Making;🌐+Cyber+Enthusisast;🤖+AI+%2B+ML+Explorer;🎯+Focused+on+Growth+%26+Impact" alt="Typing SVG" />
 </p>
 
 
