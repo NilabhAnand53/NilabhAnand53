@@ -12,7 +12,7 @@
 
 ## 👨‍💻 About Me
 
-🎓 Pursuing B.Tech at Lovely Professional University  
+🎓 Pursuing B.Tech 
 🌱 Passionate about:
 - 🤖 Artificial Intelligence  
 - 📊 Cyber Security 
