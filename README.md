@@ -70,8 +70,19 @@ I’m currently listening to TRAVIS SCOTT! 🎶
 ---
 <!-- Profile Visitors Counter -->
 <p align="center">
-  <img src="https://profile-counter.glitch.me/NilabhAnand53/count.svg" alt="Profile Visitors" />
+  <img src="https://komarev.com/ghpvc/?username=NilabhAnand53&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
+<!-- Alternative visitor counter options (uncomment one if the above doesn't work) -->
+<!--
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=NilabhAnand53&icon=0&color=0" alt="Profile Views" />
+</p>
+-->
+<!--
+<p align="center">
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FNilabhAnand53%2FNilabhAnand53&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false" alt="Profile Views" />
+</p>
+-->
 
 🎬 Bored? Let's dive into some anime adventures!  
 
