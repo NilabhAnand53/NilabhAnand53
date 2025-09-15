@@ -12,7 +12,7 @@
 
 ## 👨‍💻 About Me
 
-🎓 Pursuing B.Tech 
+🎓 B.Tech Graduate
 🌱 Passionate about:
 - 🤖 Artificial Intelligence  
 - 📊 Cyber Security 
