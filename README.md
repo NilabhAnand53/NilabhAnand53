@@ -18,7 +18,7 @@
 - 📊 Cyber Security 
 - 🌐 Web Development & Automation Tools  
 
-🔥 Currently building exciting projects & sharpening my skills  
+🌟 Currently building exciting projects & sharpening my skills  
 🎯 Long-term Vision: Becoming a versatile engineer & a creative problem-solver
 
 💬 Ask me about:
